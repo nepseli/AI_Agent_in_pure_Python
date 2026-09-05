@@ -1,7 +1,7 @@
 import json
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 def read_file(file_path):
     try:
